@@ -1,2 +1,3 @@
 # IncBot
-Pengodean Ulang wabot-aq
+bot wangsaf simpel
+hasil recode wabot-aq
