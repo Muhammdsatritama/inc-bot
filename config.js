@@ -19,7 +19,8 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'inc.bot'
-global.author = 'By Tamz'
+global.author = 'By Tama'
+
 
 global.multiplier = 69 // The higher, The harder levelup
 
