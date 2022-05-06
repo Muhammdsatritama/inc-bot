@@ -4,4 +4,6 @@ pkg install imagemagick -y
 npm install
 npm update
  
- 
+  
+  
+  
